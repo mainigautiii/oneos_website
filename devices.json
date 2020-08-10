@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "7",
+        "brand" : "Oneplus",
+        "codename" : "guacamole"
+    },
+    {
+        "name" : "7 Pro",
+        "brand" : "Oneplus",
+        "codename" : "guacamoleb"
+    },
+    {
+        "name" : "Water-7",
+        "brand" : "LYF",
+        "codename" : "zx55q05"
+    },
+    {
+        "name" : "Water-8",
+        "brand" : "LYF",
+        "codename" : "mobee01a"
+    },
+    {
+        "name" : "Wind-3",
+        "brand" : "LYF",
+        "codename" : "wind3"
+    }
+]
